@@ -75,7 +75,7 @@ Hoàn thành trước khi xem bài của người khác hoặc bộ nhãn tham c
 - [x] Đã kiểm vật thể thiếu và trùng.
 - [x] Đã kiểm lớp và hình học từng hộp.
 - [x] Mỗi hộp có đủ ba thuộc tính.
-- [x] Đã xử lý mọi hộp `needs_review`.
+- [ ] Đã xử lý mọi hộp `needs_review`.
 - [x] Đã hoàn thành ba tình huống trước khi xem nguồn đối chiếu.
 - [ ] Nếu làm theo cặp, hai người đã xuất bài độc lập trước khi trao đổi.
 - [x] Nếu làm cá nhân, bài riêng đã được kiểm trước khi nhận bộ tham chiếu.
