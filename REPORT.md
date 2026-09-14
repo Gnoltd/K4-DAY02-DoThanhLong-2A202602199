@@ -70,12 +70,12 @@ Kiểm tra định dạng chỉ xác nhận có đúng 5 trường số và các
 
 ## 7. Kiểm tra kho GitHub cá nhân
 
-- [ ] Có phiếu quy tắc với ba tình huống mơ hồ.
-- [ ] Có kết quả kiểm hai gói xuất.
-- [ ] Có thông tin lần huấn luyện và ảnh dự đoán.
-- [ ] Có tóm tắt, bảng và ảnh phủ của bước đối chiếu.
-- [ ] Không có gói xuất thô, bộ nhãn tham chiếu hoặc trọng số mô hình.
-- [ ] Không có dữ liệu VinFast/khách hàng/ảnh cá nhân/mật khẩu/mã truy cập.
+- [x] Có phiếu quy tắc với ba tình huống mơ hồ.
+- [x] Có kết quả kiểm hai gói xuất.
+- [x] Có thông tin lần huấn luyện và ảnh dự đoán.
+- [x] Có tóm tắt, bảng và ảnh phủ của bước đối chiếu.
+- [x] Không có gói xuất thô, bộ nhãn tham chiếu hoặc trọng số mô hình.
+- [x] Không có dữ liệu VinFast/khách hàng/ảnh cá nhân/mật khẩu/mã truy cập.
 
 Minh chứng mạnh nhất trong bài và câu hỏi còn lại cho Lab Coach:
 
