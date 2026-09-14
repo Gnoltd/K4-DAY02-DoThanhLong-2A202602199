@@ -1,0 +1,20 @@
+{
+  "purpose": "chỉ dùng để phản hồi và tìm lỗi dữ liệu",
+  "not_production_benchmark": true,
+  "ultralytics_version": "8.4.145",
+  "model_file": "yolo11n.pt",
+  "model_sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+  "export_sha256": "54e821914ea3ca16b246dd4adeabce4e7af8e2ac49da3139ec016e52c6690578",
+  "epochs": 8,
+  "seed": 42,
+  "device": "cpu",
+  "train_image_ids": [
+    "drive_022",
+    "drive_033",
+    "drive_038"
+  ],
+  "val_image_ids": [
+    "drive_008"
+  ],
+  "elapsed_seconds": 26.18
+}

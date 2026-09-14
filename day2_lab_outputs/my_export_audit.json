@@ -1,0 +1,66 @@
+{
+  "archive_name": "job_2_dataset_2026_09_14_04_06_25_ultralytics yolo detection 1.0.zip",
+  "archive_sha256": "54e821914ea3ca16b246dd4adeabce4e7af8e2ac49da3139ec016e52c6690578",
+  "class_names": [
+    "car",
+    "truck",
+    "bus",
+    "van"
+  ],
+  "image_ids": [
+    "drive_022",
+    "drive_033",
+    "drive_038",
+    "drive_008"
+  ],
+  "image_count": 4,
+  "object_count": 85,
+  "within_slide_workload_target": false,
+  "coordinate_format": "normalized xywh",
+  "images": {
+    "drive_022": {
+      "width": 640,
+      "height": 640,
+      "object_count": 5,
+      "class_count": {
+        "car": 2,
+        "truck": 0,
+        "bus": 1,
+        "van": 2
+      }
+    },
+    "drive_033": {
+      "width": 640,
+      "height": 640,
+      "object_count": 21,
+      "class_count": {
+        "car": 18,
+        "truck": 0,
+        "bus": 2,
+        "van": 1
+      }
+    },
+    "drive_038": {
+      "width": 640,
+      "height": 640,
+      "object_count": 30,
+      "class_count": {
+        "car": 21,
+        "truck": 1,
+        "bus": 5,
+        "van": 3
+      }
+    },
+    "drive_008": {
+      "width": 640,
+      "height": 640,
+      "object_count": 29,
+      "class_count": {
+        "car": 21,
+        "truck": 1,
+        "bus": 3,
+        "van": 4
+      }
+    }
+  }
+}
